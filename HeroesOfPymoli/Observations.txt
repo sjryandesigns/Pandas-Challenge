@@ -1,0 +1,7 @@
+1. Demographics of players skews strongly toward males (84%) in age range of 20 -24. Majority of purchases comes this demographic.
+2. Despite being a smaller represented demographic, non-males appear to have a higher average purchase per player. Their price point is closer matched to 
+	the price of more popular and profitable items. Male players purchase on average lower per player, with their purchase point
+	falling below most of the popular and profitable items
+3. Price resistance towards items is potentially not an issue. We see that top spenders on average spend more per unit than the average unit price of $3.05. 
+	Additionally, the most popular items all have price points above the average unit price. 
+
